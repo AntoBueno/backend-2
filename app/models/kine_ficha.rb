@@ -1,0 +1,2 @@
+class KineFicha < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class Usua < ApplicationRecord
+end
